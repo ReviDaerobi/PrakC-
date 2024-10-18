@@ -1,7 +1,7 @@
 # PrakC-
 Tugas Praktikum C++
 
-#TUTORIAL
+# TUTORIAL
 1. Download Folder GitHub Jadi Zip
 2. Simpan File cpp di Root Project VSC
 3. Running Code Menggunakan Code Runner
